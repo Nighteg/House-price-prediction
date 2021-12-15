@@ -1,2 +1,6 @@
-# House-price-prediction
-House prices prediction in King County, USA.
+This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
+
+It's a great dataset for evaluating simple regression models.
+
+Kaggle data link:
+https://www.kaggle.com/harlfoxem/housesalesprediction
